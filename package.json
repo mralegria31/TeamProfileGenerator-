@@ -1,0 +1,24 @@
+{
+  "name": "teamprofilegenerator-",
+  "version": "1.0.0",
+  "description": "TeamProfileGenerator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test/*",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mralegria31/TeamProfileGenerator-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mralegria31/TeamProfileGenerator-/issues"
+  },
+  "homepage": "https://github.com/mralegria31/TeamProfileGenerator-#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0"
+  }
+}
