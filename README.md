@@ -25,6 +25,11 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ## Software
+# HTML
+# CSS
+# JavaScript
+# Inquirer
+# Jest
 
 
 ## App Screenshot
