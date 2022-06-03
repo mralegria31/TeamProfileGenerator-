@@ -32,11 +32,11 @@ THEN I exit the application, and the HTML is generated
 # Jest
 
 
-## App Screenshot
-![alt text]()
+## App Video
+[click here] (https://drive.google.com/file/d/118XuFq-QcCWSmKK5oLNGfolpJVmqWbx_/view)
 
-## Deployed Link:
-[click here] ()
+[click here] (https://drive.google.com/file/d/1UQKCjcQ9NFzj34GH3d6YmuxP6djuIKVb/view)
+
 
 ## Created by:
 Francisco Alegria
